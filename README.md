@@ -17,7 +17,7 @@
 8. Now enter $ open .
 9. Click on file in file finder and open in vscode by right clicking it.
 10. Now you're looking at my code!
-11. Open the index.html doc on a web browser.
+11. Open the index.html doc on a web browser by right clicking it and choosing open in [browser you use]
 12. Scroll, scroll, look at the colors, text and image.
 
 ## Known Bugs:
